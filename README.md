@@ -54,11 +54,11 @@ Deployment
 Add additional notes about how to deploy this on a live system.
 
 Built With
--**[QT Creator](https://www.qt.io/product/development-tools)- The IDE used for development
--**[MYSQL Workbench](https://www.mysql.com/products/workbench/) - Database Design & Modeling
--**[Node.js](https://nodejs.org/en) - JavaScript runtime
--**[Express.js](http://expressjs.com/) - Web application framework
--**[JWT Token](https://jwt.io/) - For secure transmission of information
+- **[QT Creator](https://www.qt.io/product/development-tools)- The IDE used for development
+- **[MYSQL Workbench](https://www.mysql.com/products/workbench/) - Database Design & Modeling
+- **[Node.js](https://nodejs.org/en) - JavaScript runtime
+- **[Express.js](http://expressjs.com/) - Web application framework
+- **[JWT Token](https://jwt.io/) - For secure transmission of information
 
 
 # License
