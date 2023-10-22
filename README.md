@@ -23,11 +23,10 @@ Ensure you have the following software installed:
 - Node.js
 - Express.js
 
-```bash
 
 # Install Node.js and Express.js
-$ pip install nodejs
-$ npm install express --save
+ 'pip install nodejs'
+ 'npm install express --save'
 
 
 ## Installing
@@ -59,5 +58,5 @@ Built With
 [JWT Token](https://jwt.io/) - For secure transmission of information
 
 
-License
+# License
 This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details.
